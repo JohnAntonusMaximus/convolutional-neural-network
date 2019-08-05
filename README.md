@@ -16,9 +16,9 @@ The original dataset can be found here:
 https://www.cs.toronto.edu/~kriz/cifar.html
 
 
-## Labels (Clothing Types)
+## Labels (Object Classes)
 
-Each training and test example is assigned to one of the following labels:
+Each training and test example is assigned to one of the following pontential labels:
 
 airplane										
 automobile										
