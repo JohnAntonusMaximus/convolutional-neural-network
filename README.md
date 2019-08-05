@@ -35,7 +35,7 @@ Each training and test example is assigned to one of the following pontential la
 
 ## Approach
 
-In this example, I'm using a convolutional neural network with Tensorflow 2.0 consisting of two convolutional layers, each one followed by a max pooling layer. The results of the final pooling layer are flattened and then passed into an artificial neural network consitently of two layers, one with 128 neurons and the other with 128 neurons, each having dropout of 20-40% to prevent overfitting. 
+In this example, I'm using a convolutional neural network with Tensorflow 2.0 consisting of two convolutional layers, each one followed by a max pooling layer. The results of the final pooling layer are flattened and then passed into an artificial neural network consitently of two layers, one with 128 neurons and the other with 256 neurons, each having dropout of 20-40% to prevent overfitting. 
 
 On the training set, I was able to achieve about 96% accuracy, however the test set maxed out at 70% which suggests there is some overfitting on the training data. Work in progress, but more or less to just get some more practice with TF-2.0. 
 
