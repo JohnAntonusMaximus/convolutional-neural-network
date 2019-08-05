@@ -20,16 +20,16 @@ https://www.cs.toronto.edu/~kriz/cifar.html
 
 Each training and test example is assigned to one of the following pontential labels:
 
-airplane										
-automobile										
-bird										
-cat										
-deer										
-dog										
-frog										
-horse										
-ship										
-truck										
+- airplane										
+- automobile										
+- bird										
+- cat										
+- deer										
+- dog										
+- frog										
+- horse										
+- ship										
+- truck										
 
 
 
